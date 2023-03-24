@@ -1,22 +1,13 @@
-# ML2020 课程笔记
+# CS Notes
 
-李宏毅老师 [Machine Learning (2020,Spring)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html) 课程笔记
+个人学习笔记
 
+- [CS61A](./CS61A.md)
+- [CS61B](./CS61B.md)
+- [CS61C](./CS61C.md)
+- [Machine Learning ](Machine Learning.pdf)
+  - Hung-yi Lee [ML2020](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html) [ML2016](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html) 
+- [计算机网络](计算机网络.pdf)
+- [软件工程导论](软件工程导论.pdf)
+- [编码：隐匿在计算机软硬件背后的语言](Code The Hidden Language of Computer Hardware and Software.pdf)
 
-- 包含除 GAN(10 videos) 和 RL Advanced Version (8 videos, option) 外的其他课程内容
-- 补充了 [Machine Learning (2016,Fall)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html) 中的课程内容，如 Structured Learning、SVM、Ensemble
-- 不包含助教补充内容
-
-
-
-- B站有搬运视频
-- Youtube上的部分视频有字幕
-- 百度AI Studio中的视频也有字幕，不过大部分是搬运Youtube，非搬运部分错误较多
-
-
-
-- 基于[Ch3nYe](https://github.com/Ch3nYe/ML-notes/tree/main/note-md)、[Sakura-gh](https://github.com/Sakura-gh/ML-notes)、[datawhalechina](https://github.com/datawhalechina/leeml-notes)的笔记进行修改整理
-- 参考了其他网络博客
-- 内容基于个人理解，不保证完全正确
-
-  
