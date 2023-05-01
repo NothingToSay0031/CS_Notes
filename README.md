@@ -4,7 +4,7 @@
 
 我曾经热衷于记录完善的电子笔记。但我逐渐发现这种做法的效率不高，准备在源文件基础上添加笔记。因此这个仓库只会以极低频率更新完全原创的笔记。
 
-课程、项目经验等内容会在我的[博客](https://nothingtosay0031.github.io/)更新。
+课程体会、项目经验等内容会在我的[博客](https://nothingtosay0031.github.io/)更新。
 
 - [Machine Learning](./Machine%20Learning) Hung-yi Lee
   - [2020](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html), [2016](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html) 
