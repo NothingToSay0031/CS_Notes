@@ -1,5 +1,11 @@
 # CS Notes
 
+选择何种方式记录笔记应该根据个人的喜好和习惯来决定，重要的是确保记录下来的信息准确无误，易于理解，并且方便日后查阅和复习。
+
+我曾经热衷于记录完善的电子笔记。但我逐渐发现这种做法的效率不高，准备在源文件基础上添加笔记。因此这个仓库只会以极低频率更新完全原创的笔记。
+
+课程、项目经验等内容会在我的博客更新。
+
 - [Machine Learning](./Machine%20Learning) Hung-yi Lee
   - [2020](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html), [2016](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html) 
 - [软件工程导论](./软件工程导论.pdf)
