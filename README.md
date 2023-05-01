@@ -6,6 +6,8 @@
 
 虽然这个仓库只会以极低频率更新完全原创的笔记，但我会在[博客](https://nothingtosay0031.github.io/)中分享自己的课程体会、项目经验等内容。这样可以让更多的人受益，并且通过反思和总结不断提高自己的能力。
 
+如果你需要笔记的Markdown源文件，可以联系我。
+
 - [Machine Learning](./Machine%20Learning) Hung-yi Lee
   - [2020](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html), [2016](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html) 
 - [软件工程导论](./软件工程导论.pdf)
