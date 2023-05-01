@@ -9,6 +9,7 @@
 - [Machine Learning](./Machine%20Learning) Hung-yi Lee
   - [2020](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html), [2016](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html) 
 - [软件工程导论](./软件工程导论.pdf)
+- [电子信息系统](./电子信息系统.md)
 - [The Verilog Hardware Description Language](./The%20Verilog%20Hardware%20Description%20Language.pdf)
 - [编码：隐匿在计算机软硬件背后的语言](./Code%20The%20Hidden%20Language%20of%20Computer%20Hardware%20and%20software.pdf)
 
@@ -35,6 +36,7 @@
 │   └── Unsupervised Learning.pdf
 ├── README.md
 ├── The Verilog Hardware Description Language.pdf
+├── 电子信息系统.md
 └── 软件工程导论.pdf
 ```
 
